@@ -2,19 +2,15 @@
 ***
 
 ## Task
-
+In this project I analysed wine dataset and made visualizes and predictions
 
 ## Description
-TODO - How have you solved the problem?
+First of all,I imported some python libraries like pandas,numpy,matplotlib,scikit-learn to figure the data out and make predict
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
-
+run in terminal: jupyter notebook
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+My first function loads data and others works in order to make visualize and works with machine learning models
 
 ### The Core Team
 
